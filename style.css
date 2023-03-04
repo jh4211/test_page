@@ -582,7 +582,7 @@
   height: 10%;
   top: calc(100% + 0.5vmin);
   z-index: 3;
-  background: #4F8EDB;
+  background: #CADDC5;
 }
 
 div:before, div:after {
@@ -894,7 +894,7 @@ div:before, div:after {
   background: transparent;
   bottom: 0;
   left: 47%;
-  box-shadow: -1.3vmin 0 0 #9EB6D7, -2.8vmin 0 0 #9EB6D7, 1.3vmin 0 0 #4F8EDB, 2.8vmin 0 0 #4F8EDB;
+  box-shadow: -1.3vmin 0 0 #9EB6D7, -2.8vmin 0 0 #9EB6D7, 1.3vmin 0 0 #CADDC5, 2.8vmin 0 0 #CADDC5;
   z-index: 2;
 }
 .front-legs > .leg {
@@ -936,7 +936,7 @@ div:before, div:after {
   background: transparent;
   bottom: 0;
   left: 70%;
-  box-shadow: -0.8vmin 0 0 #4F8EDB, 0.8vmin 0 0 #4F8EDB;
+  box-shadow: -0.8vmin 0 0 #CADDC5, 0.8vmin 0 0 #CADDC5;
 }
 
 .tail {
