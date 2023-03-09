@@ -704,7 +704,7 @@ div:before, div:after {
   width: 70%;
   height: 55%;
   border: 2px solid #30508F;
-  background: #DE6465;
+  background: #FF0000;
   top: 20%;
   left: 15%;
   transform-origin: top left;
@@ -790,7 +790,7 @@ div:before, div:after {
   position: absolute;
   height: 100%;
   width: 44%;
-  background: #DE6465;
+  background: #FF0000;
   left: 25%;
   bottom: 100%;
   z-index: 1;
